@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](https://github.com/shards-tech/.github/assets/79893882/5cee51bf-c95d-4456-a414-b8abfa1ccbda)
 
 <!--
 
